@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<ArrayOfLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>
+    <Name>Русский_UPD_2</Name>
+    <Family>Индоевропейская</Family>
+    <Status>в безопасности</Status>
+    <Speakers>25008</Speakers>
+    <Img>../../img/Рус.png</Img>
+    <StrFamily>Индоевропейская</StrFamily>
+  </Language>
+  <Language>
+    <Name>Английский_UPD_2</Name>
+    <Family>Индоевропейская</Family>
+    <Status>в безопасности</Status>
+    <Speakers>11300</Speakers>
+    <Img>../../img/Англ.png</Img>
+    <StrFamily>Индоевропейская</StrFamily>
+  </Language>
+  <Language>
+    <Name>Иврит_UPD_2</Name>
+    <Family>Сино_тибетская</Family>
+    <Status>в безопасности</Status>
+    <Speakers>274</Speakers>
+    <Img>../../img/Араб.png</Img>
+    <StrFamily>Nan</StrFamily>
+  </Language>
+  <Language>
+ <Family>Индоевроя</Family>
+    <Status>   </Status>
+ 
+    <Img>../../img/Иврит.png</Img>
+    <StrFamily>Сино_тибетская</StrFamily>
+  </Language>
+  <Language>
+    <Name>Итальянский_UPD</Name>
+    <Family>Индоевропейская</Family>
+    <Status>в безопасности</Status>
+    <Speakers>530004</Speakers>
+    <Img>../../img/Итальянс.png</Img>
+    <StrFamily>Индоевропейская</StrFamily>
+  </Language>
+  <Language>
+    <Name>Китайский</Name>
+    <Family>Сино_тибетская</Family>
+    <Status>более чем в безопасности</Status>
+    <Speakers>918</Speakers>
+    <Img>../../img/Китайск.png</Img>
+    <StrFamily>Сино_тибетская</StrFamily>
+  </Language>
+  <Language>
+    <Name>Корейский</Name>
+    <Family>Урало_алтайская</Family>
+    <Status>в безопасности</Status>
+    <Speakers>78</Speakers>
+    <Img>../../img/Корейск.png</Img>
+    <StrFamily>Урало_алтайская</StrFamily>
+  </Language>
+  <Language>
+    <Name>Французский</Name>
+    <Family>Индоевропейская</Family>
+    <Status>	в безопасности</Status>
+    <Speakers>280</Speakers>
+    <Img>../../img/Франц.png</Img>
+    <StrFamily>Индоевропейская</StrFamily>
+  </Language>
+</ArrayOfLanguage>
